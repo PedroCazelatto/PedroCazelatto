@@ -38,7 +38,7 @@ Full Stack Developer based in Dublin, Ireland, with an electronics and electrica
 ### From university
 
 - **[PatinhOS](https://github.com/PedroCazelatto/PCS3446)**: an operating system simulator, with memory management and a virtual disk, running on a 32-bit accumulator-based processor. Python and Textual.
-- **[MAP3121](https://github.com/PedroCazelatto/MAP3131)**: numerical methods in C: QR algorithm and Householder transformations to find the vibration modes of mass-spring systems and of a truss.
+- **[MAP3121](https://github.com/PedroCazelatto/MAP3121)**: numerical methods in C: QR algorithm and Householder transformations to find the vibration modes of mass-spring systems and of a truss.
 - **[PCS3568](https://github.com/PedroCazelatto/PCS3568)**: high-performance computing: parallelising a sequence search in C with OpenMP.
 - **[PMR3508](https://github.com/PedroCazelatto/PMR3508)**: machine learning: data cleaning and kNN on the UCI Adult dataset, in Jupyter notebooks.
 - **[PCS3438](https://github.com/PedroCazelatto/PCS3438)**: artificial intelligence: Naive Bayes, kNN, LASSO and regression trees with scikit-learn.
